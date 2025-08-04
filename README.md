@@ -1,5 +1,6 @@
 # 📘 30-Day Python Programming Course  
 **Trainer:** [Muhammad Abu Bakar](https://www.linkedin.com/in/muhammadabu)  
+**Moderators:** [Hafiz Haris Mehmood ](https://linkedin.com/in/hafiz-haris-mehmood), [Muskan Makhija](https://linkedin.com/in/muskanmakhija)
 **Platform:** [iCodeGuru](https://icodeguru.weebly.com/)  
 **Focus:** Python + LeetCode for Beginners to Intermediate   
 
@@ -19,7 +20,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 
 | **Lecture** | **Key Concepts** | **Recording** | **Resources** |
 |------------|------------------|---------------|---------------|
-| Lecture 1 | Why Python, syntax, print(), variables, input(), basic math | [Watch]() | [Link]() |
+| Lecture 1 | Why Python, syntax, print(), variables, input(), basic math | [Watch]() | [Link](./Code%20and%20Slides/Lecture-01) |
 | Lecture 2 | print formatting, input, arithmetic, comparison, logical ops | [Watch]() | [Link]() |
 | Lecture 3 | `int`, `float`, `str`, `bool`, `type()`, casting | [Watch]() | [Link]() |
 | Lecture 4 | Indexing, slicing, string methods, formatting | [Watch]() | [Link]() |
