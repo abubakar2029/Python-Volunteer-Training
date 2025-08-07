@@ -22,7 +22,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 |------------|------------------|---------------|---------------|
 | Lecture 1 | Python introduction, syntax, print(), variables, input(), basic math | [Watch](https://www.facebook.com/iCodeguru/videos/633809379272226) | [Link](./Code%20and%20Slides/lecture_01) |
 | Lecture 2 | data types, type() function, operators precedence, variable naming rules and conventions| [Watch](https://www.facebook.com/share/v/1536zeABGj/) | [Link](./Code%20and%20Slides/lecture_02) |
-| Lecture 3 | `int`, `float`, `str`, `bool`, `type()`, casting | [Watch]() | [Link]() |
+| Lecture 3 | `int`, `float`, `str`, `bool`, `type()`, casting | [Watch](https://www.facebook.com/share/v/1F6YeCJzqt/) | [Link]() |
 | Lecture 4 | Indexing, slicing, string methods, formatting | [Watch](https://www.facebook.com/share/v/16kW7mGnuX/) | [Link]() |
 | Lecture 5 | if, elif, else, nested conditions, logic building | [Watch]() | [Link]() |
 | Lecture 6 | for, while, range, break, continue | [Watch]() | [Link]() |
