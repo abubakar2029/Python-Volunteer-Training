@@ -18,7 +18,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 
 ## 🗓️ Daily Python Lectures
 
-| **Lecture** | **Key Concepts** | **Recording** | **Resources** |
+| **Lecture** | **Key Concepts** | **1_hour_Recording_lectures** | **Resources** |
 |------------|------------------|---------------|---------------|
 | Lecture 1 | Python introduction, syntax, print(), variables, input(), basic math | [Watch](https://www.facebook.com/iCodeguru/videos/633809379272226) | [Link](./Code%20and%20Slides/lecture_01) |
 | Lecture 2 | data types, type() function, operators precedence, variable naming rules and conventions| [Watch](https://www.facebook.com/share/v/1536zeABGj/) | [Link](./Code%20and%20Slides/lecture_02) |
