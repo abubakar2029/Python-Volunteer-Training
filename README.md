@@ -27,7 +27,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 | Lecture 5 | if, elif, else, nested conditions, logic building | [Watch](https://www.facebook.com/share/v/1AuarJAY5k/) | - |
 | Lecture 6 | for, while, range, break, continue | [Watch]() | - |
 | Lecture 7 | Creating, slicing, appending, popping, nested lists | [Watch]() | [Link](./Code%20and%20Slides/lecture_07/) |
-| Lecture 8 | Key-value pairs, get(), items(), looping | [Watch]() | [Link]() |
+| Lecture 8 | Key-value pairs, get(), items(), looping | [Watch](https://www.facebook.com/iCodeguru/videos/1180437353846727) | [Link]() |
 | Lecture 9 | Immutability, uniqueness, practice problems | [Watch]() | [Link]() |
 | Lecture 10 | Mini projects: Quiz App, To-Do List, Tip Calculator, Converter | [Watch]() | [Link]() |
 | Lecture 11 | def, arguments, return, scope, DRY coding | [Watch]() | [Link]() |
