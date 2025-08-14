@@ -23,12 +23,12 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 | Lecture 1 | Python introduction, syntax, print(), variables, input(), basic math | [Watch](https://www.facebook.com/iCodeguru/videos/633809379272226) | [Link](./Code%20and%20Slides/lecture_01) |
 | Lecture 2 | data types, type() function, operators precedence, variable naming rules and conventions| [Watch](https://www.facebook.com/share/v/1536zeABGj/) | [Link](./Code%20and%20Slides/lecture_02) |
 | Lecture 3 | `int`, `float`, `str`, `bool`, `type()`, casting | [Watch](https://www.facebook.com/share/v/1F6YeCJzqt/) | [Link](./Code%20and%20Slides/lecture_03) |
-| Lecture 4 | Indexing, slicing, string methods, formatting | [Watch](https://www.facebook.com/share/v/16kW7mGnuX/) | - |
-| Lecture 5 | if, elif, else, nested conditions, logic building | [Watch](https://www.facebook.com/share/v/1AuarJAY5k/) | - |
-| Lecture 6 | for, while, range, break, continue | [Watch](https://www.facebook.com/share/v/1BHW8Pe7NN/) | - |
+| Lecture 4 | Indexing, slicing, string methods, formatting | [Watch](https://www.facebook.com/share/v/16kW7mGnuX/) | [Link](./Code%20and%20Slides/lecture_04/) |
+| Lecture 5 | if, elif, else, nested conditions, logic building | [Watch](https://www.facebook.com/share/v/1AuarJAY5k/) | [Link](./Code%20and%20Slides/lecture_05/) |
+| Lecture 6 | for, while, range, break, continue | [Watch](https://www.facebook.com/share/v/1BHW8Pe7NN/) | [Link](./Code%20and%20Slides/lecture_06/) |
 | Lecture 7 | Creating, slicing, appending, popping, nested lists | [Watch](https://www.facebook.com/share/v/173ehx8r5W/) | [Link](./Code%20and%20Slides/lecture_07/) |
-| Lecture 8 | Key-value pairs, get(), items(), looping | [Watch](https://www.facebook.com/iCodeguru/videos/1180437353846727) | [Link]() |
-| Lecture 9 | Immutability, uniqueness, practice problems | [Watch]() | [Link]() |
+| Lecture 8 | Key-value pairs, get(), items(), looping | [Watch](https://www.facebook.com/iCodeguru/videos/1180437353846727) | [-]() |
+| Lecture 9 | Immutability, uniqueness, practice problems | [Watch](https://www.facebook.com/iCodeguru/videos/937580835213150) | [Link](./Code%20and%20Slides/lecture_09/) |
 | Lecture 10 | Mini projects: Quiz App, To-Do List, Tip Calculator, Converter | [Watch]() | [Link]() |
 | Lecture 11 | def, arguments, return, scope, DRY coding | [Watch]() | [Link]() |
 | Lecture 12 | Function practice + base idea of recursion | [Watch]() | [Link]() |
