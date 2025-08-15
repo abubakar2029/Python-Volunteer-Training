@@ -29,7 +29,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 | Lecture 7 | Creating, slicing, appending, popping, nested lists | [Watch](https://www.facebook.com/share/v/173ehx8r5W/) | [Link](./Code%20and%20Slides/lecture_07/) |
 | Lecture 8 | Key-value pairs, get(), items(), looping | [Watch](https://www.facebook.com/iCodeguru/videos/1180437353846727) | [-]() |
 | Lecture 9 | Immutability, uniqueness, practice problems | [Watch](https://www.facebook.com/iCodeguru/videos/937580835213150) | [Link](./Code%20and%20Slides/lecture_09/) |
-| Lecture 10 | Mini projects: Quiz App, To-Do List, Tip Calculator, Converter | [Watch]() | [Link]() |
+| Lecture 10 | Mini projects: Quiz App, To-Do List, Tip Calculator, Converter | [Watch](https://www.facebook.com/iCodeguru/videos/1496752305089691) | [Link]() |
 | Lecture 11 | def, arguments, return, scope, DRY coding | [Watch]() | [Link]() |
 | Lecture 12 | Function practice + base idea of recursion | [Watch]() | [Link]() |
 | Lecture 13 | class, `__init__`, attributes, methods | [Watch]() | [Link]() |
