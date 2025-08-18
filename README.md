@@ -30,7 +30,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 | Lecture 8 | Key-value pairs, get(), items(), looping | [Watch](https://www.facebook.com/iCodeguru/videos/1180437353846727) | [-]() |
 | Lecture 9 | Immutability, uniqueness, practice problems | [Watch](https://www.facebook.com/iCodeguru/videos/937580835213150) | [Link](./Code%20and%20Slides/lecture_09/) |
 | Lecture 10 | Mini projects: Quiz App, To-Do List, Tip Calculator, Converter | [Watch](https://www.facebook.com/iCodeguru/videos/1496752305089691) | [Link]() |
-| Lecture 11 | def, arguments, return, scope, DRY coding | [Watch]() | [Link]() |
+| Lecture 11 | def, arguments, return, scope, DRY coding | [Watch](https://www.facebook.com/iCodeguru/videos/1798385467710220) | [Link](./Code%20and%20Slides/lecture_11/) |
 | Lecture 12 | Function practice + base idea of recursion | [Watch]() | [Link]() |
 | Lecture 13 | class, `__init__`, attributes, methods | [Watch]() | [Link]() |
 | Lecture 14 | Guided LeetCode problem solving, logic, dry run | [Watch]() | [Link]() |
