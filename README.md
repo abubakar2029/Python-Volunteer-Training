@@ -33,7 +33,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 | Lecture 11 | def, arguments, return, scope, DRY coding | [Watch](https://www.facebook.com/iCodeguru/videos/1798385467710220) | [Link](./Code%20and%20Slides/lecture_11/) |
 | Lecture 12 | Function practice + mini_project | [Watch](https://www.facebook.com/iCodeguru/videos/24692106843741265) | [Link](https://github.com/abubakar2029/python-class-mini-project-week-03-.git) |
 | Lecture 13 | class, `__init__`, attributes, methods, leetcode 1480 | [Watch](https://www.facebook.com/iCodeguru/videos/740711828829418) | [Link](./Code%20and%20Slides/lecture_13/) |
-| Lecture 14 | Guided LeetCode problem solving, logic, dry run | [Watch]() | [Link]() |
+| Lecture 14 | mini_project + Abstraction, Encapsulation, Polymorphism, Iheritance | [Watch](https://www.facebook.com/iCodeguru/videos/1797087720882813) | [Link](./Code%20and%20Slides/lecture_14/) |
 | Lecture 15 | Student-led LeetCode solving + code walkthroughs | [Watch]() | [Link]() |
 | Lecture 16 | `open()`, read/write, `try/except`, error handling | [Watch]() | [Link]() |
 | Lecture 17 | `math`, `random`, `datetime`, `os`, `json` | [Watch]() | [Link]() |
