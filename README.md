@@ -35,7 +35,7 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 | Lecture 13 | class, `__init__`, attributes, methods, leetcode 1480 | [Watch](https://www.facebook.com/iCodeguru/videos/740711828829418) | [Link](./Code%20and%20Slides/lecture_13/) |
 | Lecture 14 | mini_project + Abstraction, Encapsulation, Polymorphism, Iheritance | [Watch](https://www.facebook.com/iCodeguru/videos/1797087720882813) | [Link](./Code%20and%20Slides/lecture_14/) |
 | Lecture 15 | Student-led LeetCode solving + code walkthroughs | [Watch](https://www.facebook.com/iCodeguru/videos/1869785980636347) | [Link](./Code%20and%20Slides/lecture_15/) |
-| Lecture 16 | `open()`, read/write, `try/except`, error handling | [Watch]() | [Link]() |
+| Lecture 16 | LeetCode 01 + 217 + 1929 | [Watch](https://www.facebook.com/iCodeguru/videos/2925065244360873) | [Link](./Code%20and%20Slides/lecture_16/) |
 | Lecture 17 | `math`, `random`, `datetime`, `os`, `json` | [Watch]() | [Link]() |
 | Lecture 18 | Load CSVs, explore data or plot graphs using pandas/matplotlib | [Watch]() | [Link]() |
 | Lecture 19 | Individual/group final project development | [Watch]() | [Link]() |
