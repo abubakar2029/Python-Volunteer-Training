@@ -37,8 +37,8 @@ Sharing expertise with a LeetCode-focused Python course to support technical gro
 | Lecture 15 | Student-led LeetCode solving + code walkthroughs | [Watch](https://www.facebook.com/iCodeguru/videos/1869785980636347) | [Link](./Code%20and%20Slides/lecture_15/) |
 | Lecture 16 | LeetCode 01 + 217 + 1929 | [Watch](https://www.facebook.com/iCodeguru/videos/2925065244360873) | [Link](./Code%20and%20Slides/lecture_16/) |
 | Lecture 17 | Binary Search Algorithm + LeetCode | [Watch](https://www.facebook.com/iCodeguru/videos/813227587696159) | [Link](./Code%20and%20Slides/lecture_17/) |
-| Lecture 18 | Load CSVs, explore data or plot graphs using pandas/matplotlib, `math`, `random`, `datetime`, `os`, `json` | [Watch]() | [Link]() |
-| Lecture 19 | Individual/group final project development | [Watch]() | [Link]() |
+| Lecture 18 | Space and Time Complexity + HashTable + LeetCode | [Watch](https://www.facebook.com/iCodeguru/videos/1299224924984563) | [Link](./Code%20and%20Slides/lecture_18/) |
+| Lecture 19 | Load CSVs, explore data or plot graphs using pandas/matplotlib, `math`, `random`, `datetime`, `os`, `json`, Individual/group final project development | [Watch]() | [Link]() |
 | Lecture 20 | Final presentations, feedback, Q&A | [Watch]() | [Link]() |
 
 ---
